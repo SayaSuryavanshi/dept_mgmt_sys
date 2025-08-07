@@ -1,6 +1,6 @@
 # dept_mgmt_sys
 
-Project Directory :
+# Project Directory :
 
 dept_mgmt_sys/
 ├── accounts/
@@ -12,7 +12,7 @@ dept_mgmt_sys/
 
 Setup Instructions
 
-# Create virtual environment
+Create virtual environment
 python -m venv venv
 
 # Activate it
