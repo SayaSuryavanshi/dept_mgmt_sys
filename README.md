@@ -1,4 +1,4 @@
-# Department Mangement System
+# Department Management System
 
 # Project Directory :
 
