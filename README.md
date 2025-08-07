@@ -1,4 +1,4 @@
-# dept_mgmt_sys
+# Department Mangement System
 
 # Project Directory :
 
@@ -10,7 +10,7 @@ dept_mgmt_sys/
 ├── db.sqlite3
 └── manage.py
 
-Setup Instructions
+# Setup Instructions
 
 Create virtual environment
 python -m venv venv
