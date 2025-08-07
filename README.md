@@ -1,5 +1,15 @@
 # dept_mgmt_sys
 
+Project Directory :
+
+dept_mgmt_project/
+├── accounts/
+├── departments/
+├── templates/
+├── dept_mgmt/
+├── db.sqlite3
+└── manage.py
+
 Setup Instructions
 
 # Create virtual environment
