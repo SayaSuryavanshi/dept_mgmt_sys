@@ -2,7 +2,7 @@
 
 Project Directory :
 
-dept_mgmt_project/
+dept_mgmt_sys/
 ├── accounts/
 ├── departments/
 ├── templates/
